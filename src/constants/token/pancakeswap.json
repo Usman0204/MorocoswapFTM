@@ -1,0 +1,489 @@
+{
+  "name": "pancakeswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/FTM.jpg",
+  "keywords": [
+    "pancake",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Antikythera",
+      "symbol": "ANTI",
+      "address": "0xBC71a52Ee97645E2d1a6125a4E3a56450073AE20",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/AAVE.jpg"
+    },
+    {
+      "name": "USDTX",
+      "symbol": "USDTX",
+      "address": "0xe671Eebfc576f6eFC5e79Fb96f014294AE571c79",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/ALUMINIUMX.jpg"
+    },
+    {
+      "name": "AdvancedMicroDevicesX",
+      "symbol": "AMDX",
+      "address": "0x5aebfaefaeb3050425d6629548defcf56f01e514",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/AMDX.jpg"
+    },
+    {
+      "name": "AlibabaX",
+      "symbol": "BABAX",
+      "address": "0x0f7D8e2b376f7784e849123A2a69269D6Fbd790c",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/BABAX.jpg"
+    },
+    {
+      "name": "BlackRockX",
+      "symbol": "BLKX",
+      "address": "0x0e1e0C6DC4EA28cC8d8FEF5b670F83B41442082C",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/BLKX.jpg"
+    },
+    {
+      "name": "BNB",
+      "symbol": "BNB",
+      "address": "0x27f26f00e1605903645bbabc0a73e35027dccd45",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/BNB.jpg"
+    },
+    {
+      "name": "BNBX",
+      "symbol": "BNBX",
+      "address": "0x1d9524d80fFEaA0e2c9e3FBaf62919f4C1A706E7",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/BNBX.jpg"
+    },
+    {
+      "name": "BitcoinX",
+      "symbol": "BTCX",
+      "address": "0x3f8b2756a41b934b3bcf92d8d77a5596ff0de78b",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/BTCX.jpg"
+    },
+    {
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.jpg"
+    },
+    {
+      "name": "BUSDX",
+      "symbol": "BUSDX",
+      "address": "0xeB17eF5A077036EbF2c9FF499a7e3027fAF3a2A0",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/AVAX.jpg"
+    },
+    {
+      "name": "DAI",
+      "symbol": "DAI",
+      "address": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/DAI.jpg"
+    },
+    {
+      "name": "DirhamX",
+      "symbol": "DHX",
+      "address": "0x217f369534C33170433B6DF11797eb301f80aC0B",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/DHX.jpg"
+    },
+    {
+      "name": "DigitalWorldAcquisitionCorpX",
+      "symbol": "DWACX",
+      "address": "0x3BCABBBcfE2E6016512ED6bc1b61e0Fd687B9736",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/DWACX.jpg"
+    },
+    {
+      "name": "eBayX",
+      "symbol": "EBAYX",
+      "address": "0x77733348A873d2982F6039132D701dAE17EB1c34",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/EBAYX.jpg"
+    },
+    {
+      "name": "EurekaCoinX",
+      "symbol": "ERKX",
+      "address": "0x0456B512eCD6c84FB0B870C9fF21A83a812D8b65",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/ERKX.jpg"
+    },
+    {
+      "name": "EthereumX",
+      "symbol": "ETHX",
+      "address": "0xCe81AF61E7e7BD0C6a76f96008EDD5EcEa710CF0",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/ETHX.jpg"
+    },
+    {
+      "name": "MetaPlatformsIncorporatedX",
+      "symbol": "FBX",
+      "address": "0x790f54bfed11d4573ad66b2cc6d02ab33d8d4cfd",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/FBX.jpg"
+    },
+    {
+      "name": "FoxCorpX",
+      "symbol": "FOXX",
+      "address": "0x3685ee60941bb31b63fb1bf6d0e94f1e2afb7079",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/FOXX.jpg"
+    },
+    {
+      "name": "Fantom",
+      "symbol": "FTM",
+      "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/FTM.jpg"
+    },
+    {
+      "name": "FantomX",
+      "symbol": "FTMX",
+      "address": "0x49C552E3e58Db6E6Db18e30e75433b5CCBCA9FF2",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/FTMX.jpg"
+    },
+    {
+      "name": "fUSDT",
+      "symbol": "FUSDT",
+      "address": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+      "chainId": 250,
+      "decimals": 6,
+      "logoURI": "/images/coins/FUSDT.jpg"
+    },
+    {
+      "name": "GazpromX",
+      "symbol": "GAZPX",
+      "address": "0xdbC15CECa9152B958749b01B645CA9f8352905A4",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/GAZPX.jpg"
+    },
+    {
+      "name": "GoldX",
+      "symbol": "GOLDX",
+      "address": "0x78C4325E917960C06C9a9f401f1707FA3265F20E",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/GOLDX.jpg"
+    },
+    {
+      "name": "AlphabetX",
+      "symbol": "GOOGX",
+      "address": "0xf82e1c2a35ca7b1FE5476481B0d34885f51bc6b9",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/GOOGX.jpg"
+    },
+    {
+      "name": "IBMX",
+      "symbol": "IBMX",
+      "address": "0xC7AF2f50c4C3005Cc5bc04e764311512C2Ef4D96",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/IBMX.jpg"
+    },
+    {
+      "name": "IPXX",
+      "symbol": "IPXX",
+      "address": "0x56c628eef98107d9fb118a21397b1fd87db9d2be",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/IPXX.jpg"
+    },
+    {
+      "name": "JumiaX",
+      "symbol": "JMIAX",
+      "address": "0x54246726E50A902Abe9F4109c07A6eA5f9Cac42F",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/JMIAX.jpg"
+    },
+    {
+      "name": "JPMorganX",
+      "symbol": "JPMX",
+      "address": "0xbc591fC3B9c0eEeB94Ab30886B276E1e3f3378b2",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/JPMX.jpg"
+    },
+    {
+      "name": "LINK",
+      "symbol": "LINK",
+      "address": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/LINK.jpg"
+    },
+    {
+      "name": "ChainlinkX",
+      "symbol": "LINKX",
+      "address": "0x380dE87e75e80096BDA633556188d2953c57Cb89",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/LINKX.jpg"
+    },
+    {
+      "name": "DecentralandX",
+      "symbol": "MANAX",
+      "address": "0x203b84d4e06dc3D57592B28C098D63F1F4de3438",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/MANAX.jpg"
+    },
+    {
+      "name": "ManchesterUnitedX",
+      "symbol": "MANUX",
+      "address": "0x3e78D1Fc0AE393AB1580e7333966C94A0B2B336C",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/MANUX.jpg"
+    },
+    {
+      "name": "PolygonX",
+      "symbol": "MATICX",
+      "address": "0xD2b81e7a1193A926ec271E5AeBB4C5910e4002DC",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/MATICX.jpg"
+    },
+    {
+      "name": "McDonald'sX",
+      "symbol": "MCDX",
+      "address": "0x96FC9967f803032B09f3F54b8759A97C2C084086",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/MCDX.jpg"
+    },
+    {
+      "name": "MicrosoftX",
+      "symbol": "MSFTX",
+      "address": "0x7f9f38c84b56722c7c0d0479d9e2474b79a7bb63",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/MSFTX.jpg"
+    },
+    {
+      "name": "NaturalGasX",
+      "symbol": "NATGASX",
+      "address": "0xe8F9083ad2A33A05E5501851c5f945618d092b7B",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/NATGASX.jpg"
+    },
+    {
+      "name": "NetflixX",
+      "symbol": "NFLXX",
+      "address": "0x85602d8c99C8E8861E281d6d3849E8aEf8A2D5E8",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/NFLXX.jpg"
+    },
+    {
+      "name": "NintendoX",
+      "symbol": "NTDOYX",
+      "address": "0x77C3Df58fFbAe2004cF419ab7ddEABAfE9290D62",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/NTDOYX.jpg"
+    },
+    {
+      "name": "OilX",
+      "symbol": "OILX",
+      "address": "0x0086537Fe8dAe5A71D7772b20AD8A0f9a11C9Fdd",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/OILX.jpg"
+    },
+    {
+      "name": "PepsiCoX",
+      "symbol": "PEPX",
+      "address": "0x2a0E0f3bCd1566A8385eEE815570b46d7b5273f8",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/PEPX.jpg"
+    },
+    {
+      "name": "PlatinumX",
+      "symbol": "PLATINUMX",
+      "address": "0x8F9b0a72C4e4FE8D210D7F95f3da828f911Ccc5f",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/PLATINUMX.jpg"
+    },
+    {
+      "name": "SandBoxX",
+      "symbol": "SANDX",
+      "address": "0x49a2B30cCbf942602A2a646Ee68dFA39e29CC438",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/SANDX.jpg"
+    },
+    {
+      "name": "StarbucksX",
+      "symbol": "SBUXX",
+      "address": "0xc94cAD36E5A9420FA9E8C0462B51d13AbDB447B7",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/SBUXX.jpg"
+    },
+    {
+      "name": "ShibaInuX",
+      "symbol": "SHIBX",
+      "address": "0xA90DA0A8D8190e44Bef2aD98b28127313Cda0934",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/SHIBX.jpg"
+    },
+    {
+      "name": "SilverX",
+      "symbol": "SILVERX",
+      "address": "0x33577d229eEeb459D6ff142ca5Ad655c28C6d7d9",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/SILVERX.jpg"
+    },
+    {
+      "name": "SING",
+      "symbol": "SING",
+      "address": "0x397ea3280d9faa27f46bba3ebd869224fa1db5e1",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/SING.jpg"
+    },
+    {
+      "name": "SonyX",
+      "symbol": "SONYX",
+      "address": "0x7afA466196d6fD393bAF16627f026859bf94B7Cb",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/SONYX.jpg"
+    },
+    {
+      "name": "TitaniumX",
+      "symbol": "TITANIUMX",
+      "address": "0x48D1e1087E26b00f27C96bcbA85eB90B931695dD",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/TITANIUMX.jpg"
+    },
+    {
+      "name": "TeslaX",
+      "symbol": "TSLAX",
+      "address": "0x5b41ABAF1A002F5102345212806d06b9450Bc00B",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/TSLAX.jpg"
+    },
+    {
+      "name": "TUSD",
+      "symbol": "TUSD",
+      "address": "0x9879abdea01a879644185341f7af7d8343556b7a",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/TUSD.jpg"
+    },
+    {
+      "name": "TUSDX",
+      "symbol": "TUSDX",
+      "address": "0xEE621EB877659B24c9ab4DC8BB0Aeac3fB5C4290",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/TUSDX.jpg"
+    },
+    {
+      "name": "TwitterX",
+      "symbol": "TWTRX",
+      "address": "0x96f792624239B30408Fa17a54Ec2a566c3842776",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/TWTRX.jpg"
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+      "chainId": 250,
+      "decimals": 6,
+      "logoURI": "/images/coins/USDC.jpg"
+    },
+    {
+      "name": "USDCX",
+      "symbol": "USDCX",
+      "address": "0xE9b4addD73406C2F12262659baA88C1d58c12887",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/USDCX.jpg"
+    },
+    {
+      "name": "USDX",
+      "symbol": "USDX",
+      "address": "0xC733CFf92c34Ac69770fBF39E41bc3C477ca42f1",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/USDX.jpg"
+    },
+    {
+      "name": "wBTC",
+      "symbol": "WBTC",
+      "address": "0xe1146b9ac456fcbb60644c36fd3f868a9072fc6e",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/WBTC.jpg"
+    },
+    {
+      "name": "wETH",
+      "symbol": "WETH",
+      "address": "0x658b0c7613e890ee50b8c4bc6a3f41ef411208ad",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/WETH.jpg"
+    },
+    {
+      "name": "MoneroX",
+      "symbol": "XMRX",
+      "address": "0xD38b2C62a09CF5791C335980aa1F8D9094EBEb60",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/XMRX.jpg"
+    },
+    {
+      "name": "ZoomX",
+      "symbol": "ZMX",
+      "address": "0xEbE729e2f9E69D6948127DAd78cf8081899c7c2e",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/ZMX.jpg"
+    }
+  ]
+}
