@@ -18,6 +18,8 @@ import { TranslationsContext } from '../hooks/TranslationsContext'
 
 import Menu from '../components/Menu'
 
+import './frame.css'
+
 const AppWrapper = styled.div`
   display: flex;
   flex-flow: column;
